@@ -497,3 +497,9 @@
   Place: Delhi, India  
   Bio: Programmer who loves watching Mr.Robot.  
   GitHub: [udit-001](https://github.com/udit-001)
+
+ - Name: Kev  
+   Place: California, USA  
+   Bio: I'm just a guy who likes to know random things  
+   Github: [xwhatkevin](https://github.com/xwhatkevin)
+   
